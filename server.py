@@ -10,7 +10,7 @@ heart_model = pickle.load(open('artifacts/heart/Heart.pkl', 'rb'))
 
 kidney_model = pickle.load(open('artifacts/kidney/Kidney.pkl', 'rb'))
 
-cancer_model = pickle.load(open('artifacts/BreastCancer/Breast.pkl', 'rb'))
+cancer_model = pickle.load(open('artifacts/breastCancer/Breast.pkl', 'rb'))
 
 
 liver_model = pickle.load(open('artifacts/liver/Liver.pkl', 'rb'))
@@ -274,4 +274,4 @@ def predict():
 
 if __name__ == '__main__':
     print('Starting Python server')
-    app.run(debug=True)
+    app.run()
