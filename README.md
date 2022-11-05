@@ -39,6 +39,9 @@ long-term disability, or even death.
 ![Alt text](/static/images/screenshots/04.png?raw=true "Screen 4")
 ![Alt text](/static/images/screenshots/05.png?raw=true "Screen 5")
 
+## Project Demo
+![Alt text](/static/images/screenshots/demo.gif?raw=true "Screen demo")
+
 
 ## DataSet links
 1. [Heart Disease](https://www.kaggle.com/code/cdabakoglu/heart-disease-classifications-machine-learning)
