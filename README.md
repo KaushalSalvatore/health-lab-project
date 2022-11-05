@@ -28,6 +28,18 @@ A stroke, sometimes called a brain attack, occurs when something blocks blood su
 in the brain bursts. In either case, parts of the brain become damaged or die. A stroke can cause lasting brain damage,
 long-term disability, or even death.
 
+## If you want to view the deployed project, click on the following link:
+
+• https://health-lab.herokuapp.com/
+
+## Screenshots
+![Alt text](/static/images/screenshots/01.png?raw=true "Screen 1")
+![Alt text](/static/images/screenshots/02.png?raw=true "Screen 2")
+![Alt text](/static/images/screenshots/03.png?raw=true "Screen 3")
+![Alt text](/static/images/screenshots/04.png?raw=true "Screen 4")
+![Alt text](/static/images/screenshots/05.png?raw=true "Screen 5")
+
+
 ## DataSet links
 1. [Heart Disease](https://www.kaggle.com/code/cdabakoglu/heart-disease-classifications-machine-learning)
 
@@ -160,6 +172,7 @@ push the code in heroku master branch
 ```
 ## Feedback
 
-if you have any suggetion and feedback and need any kind of project related help reach me out at [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushal-pandey-067898165/)
+if you have any suggetion and feedback and need any kind of project related help reach me out at
+[linkedin](https://www.linkedin.com/in/kaushal-pandey-067898165/)
 
 #### Thank You 
