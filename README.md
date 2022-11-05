@@ -27,3 +27,139 @@ on the stage of cancer. It may consist of chemotherapy, radiation, hormone thera
 A stroke, sometimes called a brain attack, occurs when something blocks blood supply to part of the brain or when a blood vessel 
 in the brain bursts. In either case, parts of the brain become damaged or die. A stroke can cause lasting brain damage,
 long-term disability, or even death.
+
+## DataSet links
+1. [Heart Disease](https://www.kaggle.com/code/cdabakoglu/heart-disease-classifications-machine-learning)
+
+2. [Liver Disease](https://www.kaggle.com/datasets/uciml/indian-liver-patient-records)
+
+3. [Diabetes Disease](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+
+4. [Stroke Prediction](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
+
+5. [Breast Cancer Disease](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+
+6. [Chronic Kidney Disease](https://www.kaggle.com/datasets/mansoordaku/ckdisease)
+
+## Roadmap
+
+- Data Collection
+- Data Analysis
+- Data Visualization
+- Feature Engineering
+- Feature Selection
+- Model Building
+- Model Evalution
+- Hyper Parameter Tunning
+- Creating Pickle file
+- Web App using Flask
+- Deployment
+
+
+## Tech Stack
+
+**python packages:** Pandas, Numpy, Scikit-learn, matplotlib
+
+**ML Algorithms:** Node, Express
+
+**Framework:** Flask
+
+**frontend:** Html, CSS
+
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/KaushalSalvatore/health-lab-project.git
+```
+Install dependencies
+
+```bash
+  pip install -r requirements. txt
+```
+
+Start the local server
+
+```bash
+  Python server.py or server.py
+```
+
+
+## Deploy on a Github
+
+To deploy this project on github use this following command in the project folder.
+
+Initializing a new repository
+```bash
+  git .init
+```
+
+A gitignore file specifies intentionally untracked files that Git should ignore.
+```bash
+  touch .gitignore
+```
+Add all the files 
+```bash
+  git add .
+```
+Check file status 
+```bash
+  git status
+```
+Commit all the file on git
+```bash
+  git commit -m "your message"
+```
+Push all the code on github
+```bash
+  git push <your_branch_name>
+```
+Push code forcefully 
+
+```bash
+  git push origin <your_branch_name> --force
+```
+
+
+
+
+## Deploy on heroku
+
+To deploy project on heroku server use this following command.
+
+login in heroku server
+```bash
+  login heroku
+```
+Install gunicorn
+```bash
+  pip install gunicorn
+```
+Create procfile
+```bash
+  touch Procfile
+```
+Create requirements text file 
+```bash
+  pip freeze > requirements.txt
+```
+Creates a new empty application on Heroku
+```bash
+  heroku create -a "project name"
+```
+Add a remote to your local repository 
+```bash
+  git remote -v
+```
+push the code in heroku master branch
+```bash
+  git push heroku master
+```
+## Feedback
+
+if you have any suggetion and feedback and need any kind of project related help reach me out at [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushal-pandey-067898165/)
+
+#### Thank You 
