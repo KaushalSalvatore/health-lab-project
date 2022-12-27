@@ -75,7 +75,7 @@ long-term disability, or even death.
 
 **python packages:** Pandas, Numpy, Scikit-learn, matplotlib
 
-**ML Algorithms:** Node, Express
+**ML Algorithms:** GradientBoost,RandomForest
 
 **Framework:** Flask
 
